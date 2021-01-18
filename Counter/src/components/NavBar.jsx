@@ -1,3 +1,4 @@
+//navbar component
 import React, { Component } from "react";
 
 const NavBar = ({ totalCounters }) => {
